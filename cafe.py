@@ -12,7 +12,7 @@ df = df[[
     "Title",
     "crating_val",
     "Number",
-    "Avg_price1",
+    "Info",
     "Title_URL"
 ]]
 
